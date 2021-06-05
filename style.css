@@ -1,0 +1,58 @@
+body {background-color:#fff5fd;
+margin: 0%;
+}
+
+header {background-color:#0a1931;
+
+height:450px;
+
+
+}
+header div{
+  float: left;
+  color: #fdfaf6;
+}
+
+
+header nav{
+  float: right;
+   margin-right: 50px;
+  
+
+}
+
+
+header nav ul li{
+  display: inline;
+  padding-left: 10px;
+  
+}
+header nav ul li a{
+  text-decoration: none;
+
+  color:#fdfaf6;
+
+}
+main section h2{
+  text-align: center;
+}
+main section{margin: 30px;
+
+  
+}
+.mosleh{
+  display: inline-block;
+
+  
+}
+#mosleh2{
+text-align: center;
+margin:10px;
+}
+
+#mosleh2 div{
+
+margin:30px;
+color:#21094e;
+}
+
