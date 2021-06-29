@@ -1,4 +1,4 @@
-body {background-color:#fff5fd;
+/* body {background-color:#fff5fd;
 margin: 0%;
 }
 
@@ -36,23 +36,24 @@ header nav ul li a{
 main section h2{
   text-align: center;
 }
-main section{margin: 30px;
+main section{margin: 30px;*/
 
   
 }
-.mosleh{
-  display: inline-block;
+.mosleh {
+  margin-left: auto;
+  margin-right: auto;
+width: 400px;
+height: 400px;
+
 
   
 }
-#mosleh2{
-text-align: center;
-margin:10px;
-}
 
-#mosleh2 div{
-
-margin:30px;
-color:#21094e;
+.mdd{
+  display: inline;
+  padding: 60px;
+  margin: 30px;
+  margin:auto
 }
 
