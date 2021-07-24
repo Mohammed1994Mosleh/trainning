@@ -1,59 +1,9 @@
-/* body {background-color:#fff5fd;
-margin: 0%;
-}
-
-header {background-color:#0a1931;
-
-height:450px;
-
+#form{
+width: 50%;
 
 }
-header div{
-  float: left;
-  color: #fdfaf6;
-}
+div{
+width: 60%;
 
-
-header nav{
-  float: right;
-   margin-right: 50px;
-  
 
 }
-
-
-header nav ul li{
-  display: inline;
-  padding-left: 10px;
-  
-}
-header nav ul li a{
-  text-decoration: none;
-
-  color:#fdfaf6;
-
-}
-main section h2{
-  text-align: center;
-}
-main section{margin: 30px;*/
-
-  
-}
-.mosleh {
-  margin-left: auto;
-  margin-right: auto;
-width: 400px;
-height: 400px;
-
-
-  
-}
-
-.mdd{
-  display: inline;
-  padding: 60px;
-  margin: 30px;
-  margin:auto
-}
-

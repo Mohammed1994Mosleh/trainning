@@ -1,20 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <style>
-      table,
-      th,
-      td {
-        border: 1px solid;
-      }
-    </style>
-  </head>
-  <body>
-    <div id="container"></div>
-    <script src="app.js"></script>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+<body>
+   <header>
+       <h1>To Do List</h1>
+
+
+
+
+   </header>
+   <main>
+      <div>
+         <h3>Jul 24 2021</h3>
+         <form action="" id="form">
+            <fieldset>
+              <legend>list of plan</legend>
+              <label for="todo" >What Do You Want To Get Done Today?</label>
+              <input type="text" id="todo" name="todo">
+              <br>
+
+              <label for="date">Date:</label>
+              <input type="date" name="date" id="date">
+              <br>
+              <input type="submit" value="Add">
+
+
+
+
+
+            </fieldset>
+
+
+
+         </form>
+
+
+      </div>
+
+      <div>
+        <ul id="plann"></ul>
+
+
+
+      </div>
+
+
+
+   </main>  
+
+   <script src="app.js"></script>
+</body>
 </html>
